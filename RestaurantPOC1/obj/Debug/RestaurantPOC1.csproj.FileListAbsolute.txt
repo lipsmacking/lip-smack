@@ -1,0 +1,241 @@
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\ApplicationInsights.config
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\csc.exe
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\System.Collections.Immutable.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\vbc.exe
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\VBCSCompiler.exe
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\roslyn\VBCSCompiler.exe.config
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.dll.config
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.pdb
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Antlr3.Runtime.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.SqlServer.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Web.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.WindowsServer.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ApplicationInsights.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Google.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Web.Infrastructure.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Newtonsoft.Json.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Owin.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Optimization.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Providers.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\WebGrease.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Web.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.WindowsServer.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ApplicationInsights.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Optimization.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Antlr3.Runtime.pdb
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Newtonsoft.Json.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.SqlServer.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Providers.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Google.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.csprojResolveAssemblyReference.cache
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.pdb
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\MySql.Data.dll
+c:\users\shrut\onedrive\documents\visual studio 2015\Projects\RestaurantPOC1\RestaurantPOC1\bin\MySql.Data.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\ApplicationInsights.config
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\csc.exe
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\vbc.exe
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\VBCSCompiler.exe
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.dll.config
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.pdb
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Antlr3.Runtime.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.SqlServer.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Web.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Newtonsoft.Json.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Owin.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Optimization.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Providers.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\WebGrease.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Web.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Optimization.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Antlr3.Runtime.pdb
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Newtonsoft.Json.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.SqlServer.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Providers.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.csprojResolveAssemblyReference.cache
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.dll
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.pdb
+C:\Users\mahes\Downloads\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\DayPilot.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\ApplicationInsights.config
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\csc.exe
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\System.Collections.Immutable.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\vbc.exe
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\VBCSCompiler.exe
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\roslyn\VBCSCompiler.exe.config
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.dll.config
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\RestaurantPOC1.pdb
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Antlr3.Runtime.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\AspNet.ScriptManager.jQuery.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\DayPilot.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.SqlServer.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Web.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.WindowsServer.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ApplicationInsights.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Google.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Web.Infrastructure.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Newtonsoft.Json.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Owin.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Optimization.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Providers.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\WebGrease.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.Web.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AI.WindowsServer.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.ApplicationInsights.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Optimization.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Antlr3.Runtime.pdb
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Newtonsoft.Json.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\EntityFramework.SqlServer.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\System.Web.Providers.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Google.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.csprojResolveAssemblyReference.cache
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.dll
+D:\Software Engineering\Code\RestaurantPOC1-20161016T065221Z\RestaurantPOC1\RestaurantPOC1\obj\Debug\RestaurantPOC1.pdb
